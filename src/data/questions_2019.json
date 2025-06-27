@@ -1,0 +1,2648 @@
+[
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 1,
+  "category": "臨床医学",
+  "keywords": ["死因", "高齢者", "統計", "疾患", "脳血管疾患"],
+  "question": "65歳以上の死因として最も多いのはどれか。",
+  "questionImage": null,
+  "options": [
+    "悪性新生物",
+    "心疾患",
+    "肺炎",
+    "脳血管疾患",
+    "自殺"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "悪性新生物"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 2,
+  "category": "医学概論",
+  "keywords": ["ヒト細胞", "細胞構造", "ミトコンドリア", "小胞体", "タンパク質合成", "DNA"],
+  "question": "ヒトの細胞について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "細胞膜は細胞質を包み込む。",
+    "ミトコンドリアでATPが産生される。",
+    "小胞体はカルシウムを貯蔵する。",
+    "リボソームでタンパク質が合成される。",
+    "核の中には遺伝情報であるDNAが格納されている。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "リボソームでタンパク質が合成される。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 3,
+  "category": "生体計測",
+  "keywords": ["神経", "興奮", "脱分極", "伝導速度", "軸索", "電位"],
+  "question": "神経の興奮について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "興奮時の膜電位は負である。",
+    "興奮は並走する神経線維に伝わらない。",
+    "興奮は軸索を伝導する間に減衰する。",
+    "伝導速度は神経線維の太さによらず一定である。",
+    "脱分極の主な要因は塩素イオンの移動である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "興奮は並走する神経線維に伝わらない。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 4,
+  "category": "生体計測",
+  "keywords": ["心電図", "胸部電極", "胸骨角", "肋骨", "解剖"],
+  "question": "心電図検査において胸部電極を装着する際に、胸骨角は肋間を数える目印になる。胸骨角に付着する肋骨はどれか。",
+  "questionImage": "images/2019/2019-am-04.png",
+  "options": [
+    "第1肋骨",
+    "第2肋骨",
+    "第3肋骨",
+    "第4肋骨",
+    "第5肋骨"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "第2肋骨"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 5,
+  "category": "生体計測",
+  "keywords": ["心電図", "II誘導", "ST変化", "モニタ心電図", "胸痛"],
+  "question": "図は胸痛患者のモニタ心電図（II誘導）である。所見として正しいのはどれか。",
+  "questionImage": "images/2019/2019-am-05.png",
+  "options": [
+    "P波の消失",
+    "異常Q波の出現",
+    "ST部分の変化",
+    "房室ブロック",
+    "心室細動"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ST部分の変化"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 6,
+  "category": "臨床医学",
+  "keywords": ["血液", "血漿", "血清", "アルブミン", "血液量"],
+  "question": "血液について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "成人の血液量は体重の$\\frac{1}{5}$程度である。",
+    "血漿は全血液容量の90%を占める。",
+    "血漿にはアルブミンが含まれている。",
+    "血清は血液からすべてのタンパク質を除去したものである。",
+    "血球成分の約60%は白血球である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "血漿にはアルブミンが含まれている。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 7,
+  "category": "臨床医学",
+  "keywords": ["摂食中枢", "視床下部", "神経解剖", "大脳基底核", "脳"],
+  "question": "摂食中枢があるのはどれか。",
+  "questionImage": null,
+  "options": [
+    "海馬",
+    "視床",
+    "脳梁",
+    "視床下部",
+    "大脳基底核"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "視床下部"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 8,
+  "category": "臨床医学",
+  "keywords": ["脳", "ブローカ野", "皮質", "海馬", "運動野", "視覚野"],
+  "question": "脳について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "一次視覚野は側頭葉にある。",
+    "一次運動野は頭頂葉にある。",
+    "海馬は大脳基底核の一部である。",
+    "ブローカ野は言語中枢の一つである。",
+    "大脳皮質は白質である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ブローカ野は言語中枢の一つである。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 9,
+  "category": "生体計測",
+  "keywords": ["感覚", "順応", "痛覚", "視覚", "触覚"],
+  "question": "順応とは、ある刺激が一定の強さで続いているにもかかわらず、その感覚が減弱ないし消失することをいう。最も順応しにくいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "視覚",
+    "嗅覚",
+    "味覚",
+    "触覚",
+    "痛覚"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "痛覚"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 10,
+  "category": "呼吸",
+  "keywords": ["陽圧", "吸息", "呼息", "気道内圧", "胸腔内圧", "肺胞内圧"],
+  "question": "陽圧になるのはどれか。",
+  "questionImage": null,
+  "options": [
+    "吸息中の気道内圧",
+    "吸息中の胸腔内圧",
+    "吸息中の肺胞内圧",
+    "呼息中の胸腔内圧",
+    "呼息中の肺胞内圧"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "呼息中の肺胞内圧"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 11,
+  "category": "代謝",
+  "keywords": ["腎臓", "原尿", "尿細管", "ヘンレループ", "集合管", "尿の流れ"],
+  "question": "原尿の流れる経路として正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "ボーマン嚢 → 近位尿細管 → 遠位尿細管 → ヘンレループ → 集合管",
+    "ボーマン嚢 → 近位尿細管 → ヘンレループ → 遠位尿細管 → 集合管",
+    "ボーマン嚢 → ヘンレループ → 近位尿細管 → 遠位尿細管 → 集合管",
+    "ボーマン嚢 → 集合管 → ヘンレループ → 近位尿細管 → 遠位尿細管",
+    "ボーマン嚢 → 集合管 → 近位尿細管 → ヘンレループ → 遠位尿細管"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ボーマン嚢 → 近位尿細管 → ヘンレループ → 遠位尿細管 → 集合管"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 12,
+  "category": "臨床医学",
+  "keywords": ["血球", "赤血球", "白血球", "リンパ球", "血小板", "機能"],
+  "question": "血球と主な機能との組合せで正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "赤血球 ―― 寄生虫からの防御",
+    "好中球 ―― 異物の貪食",
+    "好酸球 ―― 止血",
+    "リンパ球 ―― 酸素の運搬",
+    "血小板 ―― 免疫反応"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "好中球 ―― 異物の貪食"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 13,
+  "category": "臨床医学",
+  "keywords": ["肝臓", "胆汁", "代謝", "解毒", "消化酵素"],
+  "question": "肝臓の機能として誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "グルコースの貯蔵と放出",
+    "タンパク質の合成",
+    "消化酵素の産生",
+    "胆汁の産生",
+    "解毒"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "消化酵素の産生"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 14,
+  "category": "代謝",
+  "keywords": ["ホルモン", "ノルアドレナリン", "レニン", "アルドステロン", "バソプレシン", "ANP"],
+  "question": "ホルモンと作用との組合せで誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "ノルアドレナリン ―――――――――――― 末梢血管収縮",
+    "バソプレシン ―――――――――――― 腎での水再吸収促進",
+    "レニン ―――――――――――― アンジオテンシン産生",
+    "アルドステロン ―――――――――――― 腎でのナトリウム再吸収増加",
+    "ANP（心房性ナトリウム利尿ペプチド） ―― 腎でのナトリウム排泄抑制"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ANP（心房性ナトリウム利尿ペプチド） ―― 腎でのナトリウム排泄抑制"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 15,
+  "category": "循環",
+  "keywords": ["胎児循環", "酸素飽和度", "臍静脈", "肺静脈", "ボタロー管"],
+  "question": "胎児の循環系で酸素飽和度の最も高い血液が流れているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "肺動脈",
+    "肺静脈",
+    "ボタロー管",
+    "臍静脈",
+    "臍動脈"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "臍静脈"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 16,
+  "category": "臨床医学",
+  "keywords": ["梅毒", "性感染症", "妊娠", "抗生物質", "検査"],
+  "question": "梅毒について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "飛沫感染する。",
+    "抗生物質で治療する。",
+    "感染したまま妊娠すると胎児に影響がでる。",
+    "近年男女問わず増加傾向にある。",
+    "保健所で検査できる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "飛沫感染する。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 17,
+  "category": "臨床医学",
+  "keywords": ["風疹", "感染症", "妊娠", "予防接種", "奇形"],
+  "question": "風疹について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "真菌感染症である。",
+    "妊婦に感染すると胎児に奇形が生じることがある。",
+    "「三日はしか」と呼ばれる。",
+    "30代から50代の男性の感染者が多い。",
+    "予防接種後は2ヶ月避妊が必要である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "真菌感染症である。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 18,
+  "category": "臨床医学",
+  "keywords": ["アナフィラキシーショック", "蕁麻疹", "呼吸困難", "意識障害", "血圧"],
+  "question": "アナフィラキシーショックでみられないのはどれか。",
+  "questionImage": null,
+  "options": [
+    "蕁麻疹（じんましん）",
+    "流涙",
+    "呼吸困難",
+    "意識障害",
+    "血圧上昇"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "血圧上昇"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 19,
+  "category": "代謝",
+  "keywords": ["栄養素", "エネルギー", "糖質", "脂質", "タンパク質", "グリコーゲン"],
+  "question": "誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "炭水化物1gから得られるエネルギーは脂質のそれより大きい。",
+    "運動時のエネルギー源として、脂質より先にグリコーゲンが利用される。",
+    "ビタミン自体から得られるエネルギーはゼロである。",
+    "グルコースからグリコーゲンへの転換は肝臓で行われる。",
+    "食物中のタンパク質は、アミノ酸に分解されてから吸収される。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "炭水化物1gから得られるエネルギーは脂質のそれより大きい。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 20,
+  "category": "臨床医学",
+  "keywords": ["小児", "生理的特徴", "水分量", "体温", "呼吸数", "心拍数"],
+  "question": "成人と比較した小児の特徴で正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "体重あたりの水分量が少ない。",
+    "呼吸数が少ない。",
+    "体温が高い。",
+    "心拍数が少ない。",
+    "体表面積における頭部の占める割合が小さい。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "体温が高い。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 21,
+  "category": "物性・材料",
+  "keywords": ["物理量", "単位", "電力", "ニュートン", "仕事率", "力学"],
+  "question": "電力を表すのはどれか。ただし、力の単位を［N］、距離の単位を［m］、時間の単位を［s］とする。",
+  "questionImage": null,
+  "options": [
+    "$N \\cdot m$",
+    "$N \\cdot m \\cdot s^{-1}$",
+    "$N \\cdot m^{-1}$",
+    "$N \\cdot m^{-2}$",
+    "$N \\cdot m^{-2} \\cdot s$"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$N \\cdot m \\cdot s^{-1}$"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 22,
+  "category": "物性・材料",
+  "keywords": ["光の屈折", "入射角", "水面", "進行方向", "物理"],
+  "question": "空気中を伝搬する光が水面に入射した。光の進路として適切なのはどれか。ただし入射角は45°とする。",
+  "questionImage": null,
+  "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "optionImages": [
+    "images/2019/2019-am-22-1.png",
+    "images/2019/2019-am-22-2.png",
+    "images/2019/2019-am-22-3.png",
+    "images/2019/2019-am-22-4.png",
+    "images/2019/2019-am-22-5.png"
+  ],
+  "answer": "4"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 23,
+  "category": "物性・材料",
+  "keywords": ["ドップラー効果", "振動数", "音速", "音源", "Hz", "音波"],
+  "question": "振動数600 Hzの音源が速さ40 m/sでまっすぐに移動している。この音を音源の進行方向前方で静止して聞くときの振動数は何Hzか。ただし音速は340 m/sとする。",
+  "questionImage": null,
+  "options": [
+    "540",
+    "560",
+    "640",
+    "680",
+    "700"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "680"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 24,
+  "category": "物性・材料",
+  "keywords": ["波長", "電磁波", "赤外線", "極超短波", "ガンマ線", "X線"],
+  "question": "波長が最も長いのはどれか。",
+  "questionImage": null,
+  "options": [
+    "赤外線",
+    "紫外線",
+    "極超短波",
+    "X線",
+    "γ線"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "極超短波"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 25,
+  "category": "代謝",
+  "keywords": ["pH", "水素イオン濃度", "対数", "酸塩基平衡"],
+  "question": "希薄水溶液中の水素イオン濃度が10 nmol/Lであった。この水溶液のpHはいくらか。",
+  "questionImage": null,
+  "options": [
+    "4",
+    "6",
+    "7",
+    "8",
+    "10"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "8"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 26,
+  "category": "物性・材料",
+  "keywords": ["気体", "空気", "比重", "水素", "密度"],
+  "question": "空気よりも軽いのはどれか。",
+  "questionImage": null,
+  "options": [
+    "プロパンガス",
+    "酸素ガス",
+    "水素ガス",
+    "二酸化炭素ガス",
+    "塩素ガス"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "水素ガス"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 27,
+  "category": "電子工学",
+  "keywords": ["直流電圧計", "内部抵抗", "電圧拡張", "直列接続", "並列接続"],
+  "question": "フルスケール1V、内部抵抗1kΩの直流電圧計を使ってフルスケール10Vの電圧計としたい。正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "9kΩの抵抗を電圧計に並列に接続する。",
+    "9kΩの抵抗を電圧計に直列に接続する。",
+    "10kΩの抵抗を電圧計に並列に接続する。",
+    "11kΩの抵抗を電圧計に直列に接続する。",
+    "11kΩの抵抗を電圧計に並列に接続する。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "9kΩの抵抗を電圧計に直列に接続する。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 28,
+  "category": "電子工学",
+  "keywords": ["コンデンサ", "直列接続", "電荷", "静電容量", "電気回路", "μF", "μC"],
+  "question": "図の回路で2μFのキャパシタに蓄積されている電荷[μC]はどれか。",
+  "questionImage": "images/2019/2019-am-28.png",
+  "options": [
+    "1",
+    "2",
+    "10",
+    "20",
+    "30"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "20"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 29,
+  "category": "電子工学",
+  "keywords": ["交流電圧", "インダクタ", "リアクタンス", "電流", "位相", "正弦波"],
+  "question": "最大値10Vの正弦波交流電圧を誘導リアクタンス2.0Ωのインダクタに加えた。交流電圧の瞬時値が-10Vのときにインダクタを流れる交流電流の瞬時値[mA]として正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "-5.0",
+    "-3.5",
+    "0.0",
+    "3.5",
+    "5.0"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "0.0"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 30,
+  "category": "電子工学",
+  "keywords": ["最大電力転送", "電源", "内部抵抗", "消費電力", "直流回路"],
+  "question": "起電力100V、内部抵抗10Ωの電源に可変抵抗Rを接続し、Rを調節してRの消費電力を最大にした。このとき、Rの消費電力[W]はどれか。",
+  "questionImage": "images/2019/2019-am-30.png",
+  "options": [
+    "25",
+    "50",
+    "125",
+    "250",
+    "500"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "250"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 31,
+  "category": "電気工学",
+  "keywords": ["変圧器", "巻き数比", "電力損失無視", "一次側", "二次側", "電圧比"],
+  "question": "図の変圧器で、一次側コイルの巻き数が100回であるとき二次側コイルの巻き数[回]はどれか。ただし、変圧器での電力損失は無視できるものとする。",
+  "questionImage": "images/2019/2019-am-31.png",
+  "options": [
+    "20",
+    "50",
+    "100",
+    "200",
+    "500"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "500"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 32,
+  "category": "電子工学",
+  "keywords": ["オペアンプ", "バッファ", "インピーダンス", "電圧増幅度", "脳波計"],
+  "question": "図の回路について誤っているのはどれか。",
+  "questionImage": "images/2019/2019-am-32.png",
+  "options": [
+    "電圧増幅度が大きい。",
+    "入力インピーダンスが大きい。",
+    "出力インピーダンスが小さい。",
+    "脳波計の初段に使用されている。",
+    "バッファとして用いられる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "電圧増幅度が大きい。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 33,
+  "category": "電子工学",
+  "keywords": ["整流回路", "ブリッジ回路", "LED", "ダイオード", "電流経路"],
+  "question": "図の回路において$D_1$のLED（発光ダイオード）が発光しているとき、同時に発光するのはどれか。",
+  "questionImage": "images/2019/2019-am-33.png",
+  "options": [
+    "$D_2$と$D_3$",
+    "$D_2$と$D_5$",
+    "$D_3$と$D_4$",
+    "$D_3$と$D_5$",
+    "$D_4$と$D_5$"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$D_4$と$D_5$"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 34,
+  "category": "電子工学",
+  "keywords": ["CMRR", "同相利得", "差動利得", "対数", "デシベル", "増幅器"],
+  "question": "同相利得が0.10倍、差動利得が200倍の差動増幅器がある。この増幅器のCMRR（同相弁別比）は何$dB$か。ただし、$\\log_{10} 2 = 0.30$ とする。",
+  "questionImage": null,
+  "options": [
+    "6",
+    "40",
+    "46",
+    "60",
+    "66"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "66"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 35,
+  "category": "情報システム",
+  "keywords": ["論理回路", "NANDゲート", "論理式", "ブール代数", "排他的論理和"],
+  "question": "図のようなNANDゲートで構成された回路の出力$Y$を表す論理式はどれか。",
+  "questionImage": "images/2019/2019-am-35.png",
+  "options": [
+    "$A + B$",
+    "$A \\cdot B$",
+    "$\\overline{A} \\cdot B$",
+    "$A \\oplus B$",
+    "$\\overline{A} \\oplus B$"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$A + B$s"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 36,
+  "category": "情報システム",
+  "keywords": ["IoT", "情報用語", "略語", "インターネット", "技術"],
+  "question": "情報用語の“IoT”はどれか。",
+  "questionImage": null,
+  "options": [
+    "Internet of Things",
+    "Information of Technology",
+    "Interface of The devices",
+    "Introduction of Thesis",
+    "Instant of Time"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "Internet of Things"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 37,
+  "category": "情報システム",
+  "keywords": ["フィッシング", "個人情報", "詐欺", "セキュリティ", "偽装メール"],
+  "question": "差出人を偽装した電子メールを送って不正なウェブサイトに誘導するなどして、インターネットユーザからアカウント情報やクレジット番号などの個人情報を詐取する行為を何と呼ぶか。",
+  "questionImage": null,
+  "options": [
+    "フィッシング",
+    "スパイウェア",
+    "ランサムウェア",
+    "DOS攻撃",
+    "標的型攻撃"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "フィッシング"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 38,
+  "category": "物性・材料",
+  "keywords": ["ヤング率", "応力", "ひずみ", "力学", "材料工学"],
+  "question": "断面積$1\\,\text{cm}^2$、長さ$1\\,\text{m}$の円柱棒の両端を$10\\,\text{kN}$で引張ったところ、$1\\,\text{mm}$の伸びが生じた。この円柱棒のヤング率はどれか。",
+  "questionImage": null,
+  "options": [
+    "10 MPa",
+    "100 MPa",
+    "1 GPa",
+    "10 GPa",
+    "100 GPa"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "100 GPa"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 39,
+  "category": "物性・材料",
+  "keywords": ["UV-C", "紫外線", "波長", "殺菌", "電磁波"],
+  "question": "UV-C（波長100～280 nm）について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "赤外線である。",
+    "殺菌作用が強い。",
+    "窓ガラスを通過する。",
+    "太陽光に含まれていない。",
+    "可視光線よりも波長が長い。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "殺菌作用が強い。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 40,
+  "category": "物性・材料",
+  "keywords": ["気体の状態方程式", "圧力", "体積", "温度", "ボイルシャルル", "比例計算"],
+  "question": "なめらかに動くピストンを持つシリンダの内部に気体を閉じ込めた。最初の状態から体積を$\frac{4}{3}$倍、温度を$\frac{3}{2}$倍にすると、圧力は何倍になるか。",
+  "questionImage": null,
+  "options": [
+    "2",
+    "$\\frac{9}{8}$",
+    "1",
+    "$\\frac{8}{9}$",
+    "$\\frac{1}{2}$"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$\\frac{9}{8}$"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 41,
+  "category": "生体計測",
+  "keywords": ["放射能", "単位", "ベクレル", "Bq", "放射線計測"],
+  "question": "放射能の単位はどれか。",
+  "questionImage": null,
+  "options": [
+    "Bq（ベクレル）",
+    "Gy（グレイ）",
+    "Sv（シーベルト）",
+    "lm（ルーメン）",
+    "C/kg（クーロン毎キログラム）"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "Bq（ベクレル）"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 42,
+  "category": "生体計測",
+  "keywords": ["導電率", "生体組織", "血液", "電気特性", "インピーダンス"],
+  "question": "導電率が最も大きいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "肝臓",
+    "皮下脂肪組織",
+    "骨格筋",
+    "皮質骨",
+    "血液"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "血液"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 43,
+  "category": "生体計測",
+  "keywords": ["脈波伝搬速度", "動脈", "血管壁", "血流", "血圧波"],
+  "question": "動脈の脈波伝搬速度で正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "血管壁が柔らかいほど速い。",
+    "血液の密度が高いほど速い。",
+    "血管が太いほど速い。",
+    "血管壁が厚いほど速い。",
+    "血流速度と一致する。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "血管壁が厚いほど速い。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 44,
+  "category": "生体計測",
+  "keywords": ["ヘマトクリット", "血液成分", "有形成分", "体積比", "赤血球"],
+  "question": "ヘマトクリット値について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "血漿成分に対する血小板の体積比率である。",
+    "脱酸素ヘモグロビンに対する酸素化ヘモグロビンの比である。",
+    "全ヘモグロビンに対する脱酸素ヘモグロビンの比である。",
+    "赤血球に占めるヘモグロビンの質量比率である。",
+    "全血に占める有形成分の体積比率である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "全血に占める有形成分の体積比率である。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 45,
+  "category": "生体計測",
+  "keywords": ["温度センサ", "熱電対", "起電力", "サーミスタ", "抵抗体温度計"],
+  "question": "温度差を起電力に変換するセンサはどれか。",
+  "questionImage": null,
+  "options": [
+    "サーミスタ",
+    "熱電対",
+    "白金測温抵抗体",
+    "HgCdTe",
+    "CdS"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "熱電対"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 46,
+  "category": "生体計測",
+  "keywords": ["超音波", "トランスデューサ", "圧電素子", "診断装置", "プローブ"],
+  "question": "超音波診断装置のプローブに利用されるトランスデューサはどれか。",
+  "questionImage": null,
+  "options": [
+    "圧電素子",
+    "焦電素子",
+    "ホール素子",
+    "ストレインゲージ",
+    "CdSe"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "圧電素子"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 47,
+  "category": "物性・材料",
+  "keywords": ["ポリマー", "高分子材料", "セルロース", "無機材料", "バイオマテリアル"],
+  "question": "ポリマーはどれか。",
+  "questionImage": null,
+  "options": [
+    "アルミナ",
+    "ジルコニア",
+    "結晶化ガラス",
+    "セルロース",
+    "リン酸三カルシウム"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "セルロース"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 48,
+  "category": "物性・材料",
+  "keywords": ["縫合糸", "加水分解", "吸収性", "高分子材料", "手術材料"],
+  "question": "加水分解反応しやすい高分子材料を用いた外科手術用縫合糸の特徴で正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "放射線が不透過である。",
+    "体内で石灰化する。",
+    "抜糸が不要である。",
+    "柔軟性に欠ける。",
+    "引張強度が恒久的に維持される。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "抜糸が不要である。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 49,
+  "category": "生体計測",
+  "keywords": ["心電図", "12誘導", "電極装着ミス", "aVR", "aVL", "波形反転"],
+  "question": "標準12誘導心電図計測で右手と左手の電極を逆に装着したときの現象はどれか。",
+  "questionImage": null,
+  "options": [
+    "第I誘導と第II誘導の波形が入れ替わる。",
+    "第II誘導の波形の極性が反転する。",
+    "$aVR$誘導と$aVL$誘導の波形が入れ替わる。",
+    "$aVR$誘導の波形の極性が反転する。",
+    "単極胸部誘導の$V_1$誘導と$V_2$誘導の波形が入れ替わる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$aVR$誘導と$aVL$誘導の波形が入れ替わる。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 50,
+  "category": "生体計測",
+  "keywords": ["非接触体温計", "赤外線", "サーモパイル", "測定原理", "絶対温度"],
+  "question": "非接触式体温計について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "人体表面から出ている赤外線を検知する。",
+    "測定する放射エネルギーは絶対温度の2乗に比例する。",
+    "測定時間は1秒程度である。",
+    "前額部で測定できる。",
+    "検出素子にはサーモパイルが用いられている。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "測定する放射エネルギーは絶対温度の2乗に比例する。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 51,
+  "category": "生体計測",
+  "keywords": ["X線CT", "吸収係数", "画像診断", "脂肪", "CT画像の濃淡"],
+  "question": "X線CT画像上で最も暗く写る（X線吸収係数が最も小さい）のはどれか。",
+  "questionImage": null,
+  "options": [
+    "内臓脂肪",
+    "心筋",
+    "血液",
+    "脳皮質",
+    "皮質骨"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "内臓脂肪"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 52,
+  "category": "生体計測",
+  "keywords": ["超音波", "音響インピーダンス", "反射", "屈折", "減衰", "音速"],
+  "question": "診断や治療に用いる超音波が生体内を伝搬するときの一般的な性質について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "波長が長い周波数成分ほど減衰しやすい。",
+    "音速の異なる組織の境界で屈折が起こる。",
+    "減衰は散乱以外の原因でも起こる。",
+    "生体組織（骨やガスを除く）中の音速は1500 m/s程度である。",
+    "固有音響インピーダンスの異なる組織の境界で反射が起こる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "波長が長い周波数成分ほど減衰しやすい。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 53,
+  "category": "生体計測",
+  "keywords": ["超音波", "胆石", "アーチファクト", "音響陰影", "腹部エコー"],
+  "question": "図は腹部超音波画像で胆嚢と胆石が描出されている。矢印で示した部分に現れているアーチファクトはどれか。",
+  "questionImage": "images/2019/2019-am-53.png",
+  "options": [
+    "後方エコー増強",
+    "鏡面反射",
+    "体動アーチファクト",
+    "音響陰影",
+    "サイドローブ"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "音響陰影"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 54,
+  "category": "生体計測",
+  "keywords": ["ドプラ法", "血流計測", "連続波", "超音波", "パルスドプラ"],
+  "question": "最も速い血流を計測できる超音波ドプラ法はどれか。",
+  "questionImage": null,
+  "options": [
+    "パルスドプラ法",
+    "組織ドプラ法",
+    "カラードプラ法",
+    "連続波ドプラ法",
+    "パワードプラ法"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "連続波ドプラ法"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 55,
+  "category": "循環",
+  "keywords": ["MRI", "造影剤", "静脈注射", "循環経路", "右肘静脈"],
+  "question": "脳の造影MRIを撮影するために、右肘静脈から造影剤を注入した。造影剤が脳に至るまでに通る経路はどれか。",
+  "questionImage": null,
+  "options": [
+    "右肘 → 心臓 → 肺 → 心臓 → 脳",
+    "右肘 → 心臓 → 肝臓 → 脳",
+    "右肘 → 右手指先 → 心臓 → 脳",
+    "右肘 → 肝臓 → 心臓 → 脳",
+    "右肘 → 心臓 → 腎臓 → 脳"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "右肘 → 心臓 → 肺 → 心臓 → 脳"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 56,
+  "category": "生体計測",
+  "keywords": ["ガンマカメラ", "SPECT", "放射性同位体", "空間分解能", "核医学"],
+  "question": "ガンマカメラについて誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "放射性物質の集積を可視化する。",
+    "放射性同位体を含む薬剤を用いる。",
+    "空間分解能はX線CTと同程度である。",
+    "被検者の体内から放射される放射線を検出する。",
+    "SPECT装置に撮像デバイスとして組み込まれている。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "空間分解能はX線CTと同程度である。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 57,
+  "category": "生体計測",
+  "keywords": ["電磁波", "非侵襲", "MRI", "PET", "パルスオキシメータ", "X線", "NIRS"],
+  "question": "生体情報を取得するために生体外から生体に電磁波を照射しないのはどれか。",
+  "questionImage": null,
+  "options": [
+    "MRI装置",
+    "PET装置",
+    "パルスオキシメータ",
+    "X線CT装置",
+    "NIRS装置"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "PET装置"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 58,
+  "category": "治療機器",
+  "keywords": ["カテーテルアブレーション", "不整脈", "抗凝固薬", "心臓カテーテル", "侵襲的治療"],
+  "question": "カテーテルアブレーション治療について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "根治的治療法である。",
+    "侵襲的治療法である。",
+    "徐脈に対する治療法である。",
+    "抗凝固薬を用いる。",
+    "心臓血管撮影装置が必要である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "徐脈に対する治療法である。"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 59,
+  "category": "治療機器",
+  "keywords": ["腹腔鏡下手術", "気腹", "炭酸ガス", "CO2", "気体選択"],
+  "question": "腹腔鏡下外科手術で気腹に用いられるガスはどれか。",
+  "questionImage": null,
+  "options": [
+    "$O_2$",
+    "$H_2$",
+    "$N_2$",
+    "He",
+    "$CO_2$"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$CO_2$"
+},
+{
+  "year": "2019",
+  "part": "午前",
+  "index": 60,
+  "category": "医療安全",
+  "keywords": ["EOG滅菌", "エチレンオキシド", "ガス滅菌", "エアレーション", "腐食性"],
+  "question": "EOG滅菌について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "ガス滅菌の一種である。",
+    "エアレーションが必要である。",
+    "タンパク質をアルキル化させる。",
+    "医療用プラスチックに用いられる。",
+    "ステンレス鋼に対して腐食性がある。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ステンレス鋼に対して腐食性がある。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 1,
+  "category": "生体計測",
+  "keywords": ["観血式血圧", "圧力トランスデューサ", "半導体ひずみゲージ", "血圧計測", "センサ素子"],
+  "question": "観血式血圧計測の圧力トランスデューサに用いられている素子はどれか。",
+  "questionImage": null,
+  "options": [
+    "圧電素子",
+    "ホール素子",
+    "熱電対",
+    "半導体ひずみゲージ",
+    "差動トランス"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "半導体ひずみゲージ"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 2,
+  "category": "生体計測",
+  "keywords": ["心電計", "入力インピーダンス", "増幅器", "電極", "計測精度"],
+  "question": "心電計で入力インピーダンスの大きな増幅器が用いられる主たる理由はどれか。",
+  "questionImage": null,
+  "options": [
+    "電極の分極電圧を低減するため。",
+    "電極接触インピーダンスの変動の影響を低減するため。",
+    "増幅度を安定にするため。",
+    "増幅器への入力電圧を大きくするため。",
+    "心電図の低い周波数成分まで正確に増幅するため。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "電極接触インピーダンスの変動の影響を低減するため。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 3,
+  "category": "生体計測",
+  "keywords": ["脳波計", "電極", "インピーダンス", "帯域", "Vpp", "信号"],
+  "question": "脳波計で誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "頭皮上から平均 20～30 $\\mu$Vpp の信号が導出される。",
+    "臨床上必要な周波数帯域は 0.5～100 Hz 程度である。",
+    "中性点電極が増幅器の基準点となる。",
+    "皿状の電極が使用される。",
+    "電極の接触インピーダンスは 500 k$\\Omega$ 程度が適切である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "電極の接触インピーダンスは 500 k$\\Omega$ 程度が適切である。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 4,
+  "category": "生体計測",
+  "keywords": ["心電図テレメータ", "UHF帯", "送信機", "AD変換", "電波干渉"],
+  "question": "心電図テレメータについて誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "割当周波数帯域（420～450 MHz）は UHF 帯に属している。",
+    "心電図信号は送信機で AD 変換される。",
+    "A型の送信機の出力は 1W と定められている。",
+    "近接した医療機関で使用している送信機の電波を受信することがある。",
+    "呼吸数をモニタできる機種がある。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "A型の送信機の出力は 1W と定められている。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 5,
+  "category": "生体計測",
+  "keywords": ["非観血式", "血圧測定", "測定法", "オシロメトリック法", "パルスドプラ法", "トノメータ"],
+  "question": "非観血式血圧測定で用いないのはどれか。",
+  "questionImage": null,
+  "options": [
+    "オシロメトリック法",
+    "容積補償法",
+    "容積振動法",
+    "パルスドプラ法",
+    "トノメータ法"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "パルスドプラ法"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 6,
+  "category": "生体計測",
+  "keywords": ["カプノメータ", "赤外線", "呼気", "CO2", "分光分析"],
+  "question": "カプノメータで使用されているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "$\\gamma$ 線",
+    "X 線",
+    "紫外線",
+    "可視光線",
+    "赤外線"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "赤外線"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 7,
+  "category": "生体計測",
+  "keywords": ["パルスオキシメータ", "SpO2", "波長", "吸光度", "光"],
+  "question": "パルスオキシメータについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "酸素分圧を計測する。",
+    "波長が異なる複数の光を用いる。",
+    "ガラス電極を用いる。",
+    "表示値の単位は mmHg である。",
+    "紫外線を用いる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "波長が異なる複数の光を用いる。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 8,
+  "category": "生体計測",
+  "keywords": ["内視鏡", "電子スコープ", "硬性鏡", "ファイバースコープ", "CCD"],
+  "question": "内視鏡で誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "上部消化管の観察に硬性鏡が用いられる。",
+    "小腸の観察にカプセル型が用いられる。",
+    "血管内の観察にファイバースコープが用いられる。",
+    "CCDは電子スコープ撮像素子に使われる。",
+    "電子スコープ先端には対物レンズがある。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "上部消化管の観察に硬性鏡が用いられる。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 9,
+  "category": "治療機器",
+  "keywords": ["電気メス", "モノポーラ", "対極板", "高周波", "フローティング"],
+  "question": "電気メスについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "出力波形の基本周波数は 30～50 kHz である。",
+    "凝固モードでは連続的な正弦波を用いる。",
+    "生体接触部の電流密度は対極板よりメス先電極のほうが高い。",
+    "フローティング形では対極板回路が接地されている。",
+    "モノポーラ方式では対極板が不要である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "生体接触部の電流密度は対極板よりメス先電極のほうが高い。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 10,
+  "category": "治療機器",
+  "keywords": ["除細動器", "手動式除細動器", "AED", "同期通電", "通電波形"],
+  "question": "除細動器について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "手動式除細動器による患者への通電は医師が行う。",
+    "手動式除細動器は出力のエネルギー設定を行える。",
+    "手動式除細動器はR波同期通電の機能がある。",
+    "AEDは装置が心電図の解析を行う。",
+    "AEDの通電波形は単相性である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "AEDの通電波形は単相性である。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 11,
+  "category": "治療機器",
+  "keywords": ["体外式ペースメーカ", "ヨウ化リチウム", "デマンド感度", "スクルーインリード"],
+  "question": "体外式ペースメーカについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "ヨウ化リチウム電池が使用されている。",
+    "電極は左心室内に留置する。",
+    "ペーシングリードの先端はプラス電極である。",
+    "スクルーインリードが用いられる。",
+    "デマンド感度を調整できる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "デマンド感度を調整できる。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 12,
+  "category": "治療機器",
+  "keywords": ["超音波", "吸引手術", "乳化", "磁歪素子", "トランスデューサ"],
+  "question": "超音波吸引手術装置について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "チップの振動によって組織を乳化する。",
+    "チップ先端のストロークはおよそ300 μmである。",
+    "使用される超音波の周波数は1〜5 MHzである。",
+    "ニッケル製トランスデューサは磁歪素子である。",
+    "磁歪素子を用いたものは冷却水を必要とする。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "使用される超音波の周波数は1〜5 MHzである。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 13,
+  "category": "治療機器",
+  "keywords": ["レーザ", "多関節導光路", "Nd:YAG", "手術装置"],
+  "question": "レーザ手術装置で多関節導光路があるのはどれか。",
+  "questionImage": null,
+  "options": [
+    "$CO_2$ レーザ装置",
+    "Nd:YAG レーザ装置",
+    "Ho:YAG レーザ装置",
+    "半導体レーザ装置",
+    "アルゴンイオンレーザ装置"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "$CO_2$ レーザ装置"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 14,
+  "category": "治療機器",
+  "keywords": ["IABP", "補助循環", "バルーン", "駆動装置"],
+  "question": "IABP装置について誤っているのはどれか。",
+  "questionImage": null,
+  "options": [
+    "バルーンの材質は主にポリエチレンである。",
+    "バルーン先端部で血圧を測定できる。",
+    "バルーンの拡張にはヘリウムガスを用いる。",
+    "患者の移動中はバッテリーで駆動する。",
+    "駆動装置はコンプレッサ方式が主流である。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "バルーンの材質は主にポリエチレンである。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 15,
+  "category": "治療機器",
+  "keywords": ["PCPS", "補助循環", "人工肺", "遠心ポンプ"],
+  "question": "PCPSについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "ローラポンプを用いる。",
+    "左房から脱血する。",
+    "膜型人工肺を用いる。",
+    "貯血槽を有している。",
+    "送血管は下行大動脈から挿入する。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "膜型人工肺を用いる。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 16,
+  "category": "呼吸",
+  "keywords": ["人工呼吸器", "ウォータートラップ", "ホースヒータ", "加温加湿器"],
+  "question": "人工呼吸器について正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "薬液はウォータトラップから投与する。",
+    "ホースヒータは水の貯留を防止する。",
+    "送気ガスの温度は室温と同程度である。",
+    "加温加湿器には生理食塩液を入れる。",
+    "人工鼻は加温加湿器と併用する。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ホースヒータは水の貯留を防止する。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 17,
+  "category": "治療機器",
+  "keywords": ["透析液", "血液透析", "電解質", "乳酸イオン", "除外成分"],
+  "question": "血液透析用透析液に含まれない成分はどれか。",
+  "questionImage": null,
+  "options": [
+    "ナトリウムイオン",
+    "カリウムイオン",
+    "カルシウムイオン",
+    "重炭酸イオン",
+    "乳酸イオン"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "乳酸イオン"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 18,
+  "category": "治療機器",
+  "keywords": ["オンラインHDF", "血液透析", "置換液", "エンドトキシン", "β₂ミクログロブリン"],
+  "question": "オンラインHDFについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "血液透析器を用いる。",
+    "滅菌した生理食塩液を補充液として用いる。",
+    "HDと比べてβ₂-ミクログロブリンの除去率が下がる。",
+    "エンドトキシン捕捉フィルタを用いる。",
+    "後希釈法では前希釈法よりも置換液量を増やせる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "エンドトキシン捕捉フィルタを用いる。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 19,
+  "category": "医療安全",
+  "keywords": ["無停電電源", "蓄電池", "バックアップ電源", "電力供給", "UPS"],
+  "question": "無停電電源装置に用いられるのはどれか。",
+  "questionImage": null,
+  "options": [
+    "自家用発電機",
+    "蓄電池",
+    "太陽光発電機",
+    "燃料ガス発電機",
+    "燃料電池"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "蓄電池"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 20,
+  "category": "治療機器",
+  "keywords": ["液体酸素", "気化", "蒸発器", "酸素供給装置"],
+  "question": "液体酸素を気化させる装置はどれか。",
+  "questionImage": null,
+  "options": [
+    "膨張弁",
+    "マニフォールド",
+    "圧縮器",
+    "蒸発器",
+    "圧力調整器"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "蒸発器"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 21,
+  "category": "治療機器",
+  "keywords": ["PCPS", "送血", "ACT", "人工肺", "脱血"],
+  "question": "PCPSについて正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "血液ポンプの手前で採血する。",
+    "ACTを200秒程度とする。",
+    "ウェットラングになったら直ちに人工肺を交換する。",
+    "脱血不良の場合はポンプの位置を低くする。",
+    "送血側回路の鉗子を外してからポンプを回転させる。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "ACTを200秒程度とする。"
+},
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 22,
+  "category": "治療機器",
+  "keywords": ["人工心肺", "操作", "リザーバ", "CVP", "酸素濃度"],
+  "question": "人工心肺の操作で正しいのはどれか。",
+  "questionImage": null,
+  "options": [
+    "リザーバの貯血量が急に減少したらポンプの回転数を上げる。",
+    "二酸化炭素ガス分圧が上昇したら吹送ガスの酸素濃度を上げる。",
+    "体外循環中の潅流圧は150 mmHgを目標とする。",
+    "中心静脈圧（CVP）を下げたいときはリザーバの貯血量を増やす。",
+    "体温復温時の冷温水槽の温度は45℃に設定する。"
+  ],
+  "optionImages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "answer": "中心静脈圧（CVP）を下げたいときはリザーバの貯血量を増やす。"
+},
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 23,
+    "category": "生体計測",
+    "keywords": ["無線", "心電図モニタ", "注意点", "送受信"],
+    "question": "無線式の心電図モニタを使用する上で最も注意すべき点はどれか。",
+    "questionImage": null,
+    "options": [
+      "アラーム音量",
+      "記録の感度調整",
+      "送受信チャネルの確認",
+      "内部時計の精度",
+      "電極リード線の長さ"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "送受信チャネルの確認"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 24,
+    "category": "生体計測",
+    "keywords": ["X線透視", "心電図", "モニタ", "電極"],
+    "question": "X線透視下で胸部から心電図をモニタするとき適切な電極はどれか。",
+    "questionImage": null,
+    "options": [
+      "カーボン電極",
+      "ステンレス電極",
+      "銀-塩化銀電極",
+      "白金電極",
+      "タングステン電極"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "カーボン電極"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 25,
+    "category": "治療機器",
+    "keywords": ["血液透析", "静脈圧", "トラブル", "原因"],
+    "question": "血液透析中、血液回路内の静脈圧が低下した。この原因として考えられるのはどれか。",
+    "questionImage": null,
+    "options": [
+      "抗凝固剤を過剰に注入した。",
+      "静脈側回路が折れ曲がった。",
+      "ダイアライザ内で血液が凝固した。",
+      "静脈側ドリップチャンバ内で血液が凝固した。",
+      "返血側留置針の針先が血管壁に先当たりした。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "ダイアライザ内で血液が凝固した。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 26,
+    "category": "治療機器",
+    "keywords": ["植込み型ペースメーカー", "VDDRモード", "心房ペーシング", "心室センシング"],
+    "question": "植込み型ペースメーカーのVDDRモードについて誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "心室電位を検出できる。",
+      "心房電位を検出できる。",
+      "心室センシングができる。",
+      "心房ペーシングができる。",
+      "身体活動に応じてペーシングレートが変化する。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "心房ペーシングができる。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 27,
+    "category": "生体計測",
+    "keywords": ["カプノメータ", "測定方式", "センサ", "補正"],
+    "question": "カプノメータについて誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "絶対値式では測定前にゼロ点校正が必要である。",
+      "サイドストリーム方式ではサンプリングチューブが必要である。",
+      "メインストリーム方式のセンサは呼吸回路の吸気側に入れる。",
+      "センサに水滴が付着すると測定誤差の原因となる。",
+      "$N_2O$を使用するときは測定値の補正が必要である。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "メインストリーム方式のセンサは呼吸回路の吸気側に入れる。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 28,
+    "category": "生体計測",
+    "keywords": ["心電図検査", "心電計", "アース", "ノイズ対策"],
+    "question": "心電図検査室での心電計の取扱いについて正しいのはどれか。",
+    "questionImage": null,
+    "options": [
+      "金属ベッドを接地する。",
+      "患者にアース線を接続する。",
+      "車回使用電極はエージングしてから使用する。",
+      "誘導コードも電源コードを束ねて使用する。",
+      "ハムフィルタはあらかじめオンにしておく。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "金属ベッドを接地する。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 29,
+    "category": "生体計測",
+    "keywords": ["超音波", "心房内血栓", "経食道心エコー", "TEE"],
+    "question": "超音波を用いて心房内血栓の有無を検査する方法で適切なのはどれか。",
+    "questionImage": null,
+    "options": [
+      "IVUS（血管内超音波法）",
+      "TEE（経食道心エコー検査）",
+      "超音波血流計（トランジットタイム法）",
+      "超音波血流計（ドプラ法）",
+      "Mモード超音波検査"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "TEE（経食道心エコー検査）"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 30,
+    "category": "呼吸",
+    "keywords": ["人工呼吸器", "気道内圧", "アラーム", "外れ"],
+    "question": "人工呼吸器を使用中に気道内圧下限アラームが鳴った。原因として考えられるのはどれか。",
+    "questionImage": null,
+    "options": [
+      "呼気側回路のフィルタの目詰まり",
+      "気道内の分泌物貯留",
+      "気管チューブの外れ",
+      "ファイティング",
+      "回路内の水貯留"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "気管チューブの外れ"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 31,
+    "category": "治療機器",
+    "keywords": ["麻酔器", "始業点検", "酸素濃度", "異常"],
+    "question": "麻酔器の始業点検で異常なのはどれか。",
+    "questionImage": null,
+    "options": [
+      "酸素フラッシュ時の流量が50 L/minであった。",
+      "酸素が遮断されると亜酸化窒素も遮断された。",
+      "室内気で酸素濃度計が21 %を表示した。",
+      "テスト肺を外すとAPL弁が作動した。",
+      "補助酸素ボンベの内圧が7 MPaであった。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "テスト肺を外すとAPL弁が作動した。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 32,
+    "category": "呼吸",
+    "keywords": ["酸素濃縮器", "吸着", "ゼオライト", "電源", "誤り"],
+    "question": "吸着型酸素濃縮器について誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "二酸化炭素を吸着して酸素を濃縮する。",
+      "吸着のために空気を加圧する。",
+      "吸着剤としてゼオライトが使われる。",
+      "濃縮後に加湿が必要である。",
+      "動力源として電源が必要である。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "二酸化炭素を吸着して酸素を濃縮する。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 33,
+    "category": "循環",
+    "keywords": ["観血式血圧測定", "モニタライン", "脈圧", "誤り"],
+    "question": "観血式血圧測定において脈圧が小さく測定される原因で誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "モニタラインに気泡が混入している。",
+      "モニタラインが屈曲している。",
+      "カテーテル先端が凝血で詰まっている。",
+      "カテーテル先端が血管壁にあたっている。",
+      "トランスデューサの位置が右心房より高くなっている。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "トランスデューサの位置が右心房より高くなっている。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 34,
+    "category": "循環",
+    "keywords": ["IABP", "バルーン", "留置位置", "下行大動脈"],
+    "question": "IABPのバルーン留置位置で正しいのはどれか。",
+    "questionImage": null,
+    "options": [
+      "上行大動脈",
+      "（胸部）下行大動脈",
+      "腹部大動脈",
+      "大腿動脈",
+      "鎖骨下動脈"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "（胸部）下行大動脈"
+  },
+{
+  "year": "2019",
+  "part": "午後",
+  "index": 35,
+  "category": "治療機器",
+  "keywords": ["血液透析", "透析効率", "血液流量", "透析液流量", "向流", "並行流"],
+  "question": "血液透析の透析効率が最も高くなるのはどれか。",
+  "questionImage": null,
+  "options": [
+    "1)",
+    "2)",
+    "3)",
+    "4)",
+    "5)"
+  ],
+  "optionImages": [
+    "images/2019/2019-pm-35-1.png",
+    "images/2019/2019-pm-35-2.png",
+    "images/2019/2019-pm-35-3.png",
+    "images/2019/2019-pm-35-4.png",
+    "images/2019/2019-pm-35-5.png"
+  ],
+  "answer": "5)"
+},
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 36,
+    "category": "治療機器",
+    "keywords": ["電気メス", "対極板", "接触不良", "誤り", "出力設定"],
+    "question": "電気メス対極板の取扱いで誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "大きすぎる対極板は切って使用する。",
+      "対極板コード断線アラームが鳴ったら、コネクタの接続を確認する。",
+      "対極板の装着部位として大腿部は適している。",
+      "小児用対極板を使ったら電気メスの出力を成人より低めに設定する。",
+      "対極板接触不良モニタにはスプリット形（ダブル形）対極板を使う。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "大きすぎる対極板は切って使用する。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 37,
+    "category": "治療機器",
+    "keywords": ["輸液", "点滴", "輸液ポンプ", "滴下数"],
+    "question": "20滴が1 mLの輸液セットを使用し、輸液ポンプを用いて流量設定30 mL/hで輸液を行っている。点滴筒内を滴下する液滴は1分間あたり何滴か。",
+    "questionImage": null,
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "10"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 38,
+    "category": "生体計測",
+    "keywords": ["パルスオキシメータ", "プローブ", "装着部位", "末梢循環"],
+    "question": "パルスオキシメータのプローブの取扱いで誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "マニキュアを除去してから取り付けた。",
+      "乳児は足の甲に取り付けた。",
+      "受光部を指の関節部に取り付けた。",
+      "末梢循環不全のため耳たぶに取り付けた。",
+      "発赤防止のため取付位置の変更を行った。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "受光部を指の関節部に取り付けた。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 39,
+    "category": "治療機器",
+    "keywords": ["PCI", "バルーン", "ステント", "冠動脈", "拡張"],
+    "question": "経皮的冠動脈インターベンション(PCI)について誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "虚血性心疾患に対して有効な治療法である。",
+      "バルーンの拡張にはCO$_2$ガスを用いる。",
+      "バルーンの導入にはガイドワイヤを用いる。",
+      "バルーンの拡張時間は30～60秒程度である。",
+      "再狭窄予防のためステントを留置する。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "バルーンの拡張にはCO$_2$ガスを用いる。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 40,
+    "category": "治療機器",
+    "keywords": ["ESWL", "体外衝撃波結石破砕装置", "レーザ"],
+    "question": "ESWLに用いないのはどれか。",
+    "questionImage": null,
+    "options": [
+      "X線透視装置",
+      "音響レンズ",
+      "圧電素子",
+      "ウォーターバッグ",
+      "Ho:YAGレーザ"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "Ho:YAGレーザ"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 41,
+    "category": "治療機器",
+    "keywords": ["ペースメーカ", "電極端子", "感染予防", "タッチプレート"],
+    "question": "体外式ペースメーカの電極接続端子が「タッチプレート」構造となっているのは、次のどのリスクへの対策か。",
+    "questionImage": null,
+    "options": [
+      "極性反転",
+      "接触不良",
+      "電磁障害",
+      "感染",
+      "ミクロショック"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "ミクロショック"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 42,
+    "category": "治療機器",
+    "keywords": ["電気メス", "凝固モード", "出力", "電流", "電力"],
+    "question": "電気メスの凝固モードで出力測定をおこなった。負荷抵抗500 $$\\Omega$$（無誘導）で熱電形高周波電流計の指示値が400 mAであった。出力はおよそ何Wか。",
+    "questionImage": null,
+    "options": [
+      "30",
+      "50",
+      "80",
+      "160",
+      "200"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "80"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 43,
+    "category": "治療機器",
+    "keywords": ["ペリスタルティックポンプ", "輸液ポンプ", "点検", "不要なもの"],
+    "question": "ペリスタルティック方式の輸液ポンプの点検に用いないのはどれか。",
+    "questionImage": null,
+    "options": [
+      "メスシリンダ",
+      "ストップウォッチ",
+      "ポンプ用輸液セット",
+      "生理食塩液",
+      "シリンジ"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "シリンジ"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 44,
+    "category": "治療機器",
+    "keywords": ["人工呼吸器", "換気量", "波形", "点検"],
+    "question": "人工呼吸器（量規定）の保守点検で図の呼吸流量波形が示された。1回換気量[mL]はいくらか。",
+    "questionImage": "images/2019/2019-pm-44.png",
+    "options": [
+      "300",
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "600"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 45,
+    "category": "医療安全",
+    "keywords": ["始業点検", "確認項目", "バッテリー", "PCPS", "安全"],
+    "question": "日常の始業点検項目として適切なのはどれか。",
+    "questionImage": null,
+    "options": [
+      "輸液ポンプの流量精度測定",
+      "電気メスの高周波漏れ電流測定",
+      "PCPS本体のバッテリー残量の確認",
+      "観血式血圧計の周波数特性の確認",
+      "血液透析用水のエンドトキシン検査"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "PCPS本体のバッテリー残量の確認"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 46,
+    "category": "医療安全",
+    "keywords": ["高圧ガス", "ボンベ", "保管条件", "安全管理"],
+    "question": "高圧ガス容器（ボンベ）の保管場所に求められる条件として誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "密閉された場所",
+      "室内気温が40℃以下の場所",
+      "直射日光が当たらない場所",
+      "転倒防止の措置ができる場所",
+      "周囲2m以内に火気がない場所"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "密閉された場所"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 47,
+    "category": "医療安全",
+    "keywords": ["医療ガス", "配管", "点検", "始業点検"],
+    "question": "医療ガス配管端末器の始業点検項目でないのはどれか。",
+    "questionImage": null,
+    "options": [
+      "ダストカバーの有無",
+      "アダプタプラグのロック状態",
+      "ガスリーク音の有無",
+      "ガス残量",
+      "使用していない機器の接続の有無"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "ガス残量"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 48,
+    "category": "医療安全",
+    "keywords": ["漏れ電流", "合計患者漏れ電流", "測定法", "電気安全"],
+    "question": "合計患者漏れ電流の測定について正しいのはどれか。",
+    "questionImage": null,
+    "options": [
+      "複数の装着部分からの漏れ電流値を個別に測定し合計する。",
+      "直流と交流の漏れ電流値を測定し合計する。",
+      "同時使用する2つ以上のME機器からの漏れ電流値を合計する。",
+      "同一形の装着部を一つにまとめて漏れ電流値を測定する。",
+      "装着箇所に流れる漏れ電流値を測定する。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "同一形の装着部を一つにまとめて漏れ電流値を測定する。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 49,
+    "category": "医療安全",
+    "keywords": ["接地", "JIS T 1022", "医用接地", "接地抵抗"],
+    "question": "JIS T 1022で規定される医用接地について誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "接地センタは床面積の合計が50㎡以下の隣接する医用室で共用できる。",
+      "医用3PコンセントはクラスⅠのME機器を使用する医用室に設置する。",
+      "鉄骨造の建物での接地幹線には鉄骨を利用する。",
+      "接地極として建物の地下部分を利用できる。",
+      "接地極の接地抵抗は0.1Ω以下にする。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "接地極の接地抵抗は0.1Ω以下にする。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 50,
+    "category": "医療安全",
+    "keywords": ["等電位接地", "安全対策", "マクロショック", "電位差"],
+    "question": "等電位接地について誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "心臓カテーテル検査室に設ける。",
+      "マクロショックの防止を目的とする。",
+      "患者が触れるすべての金属部分を対象とする。",
+      "すべての金属表面間の電位差を10mV以下にする。",
+      "対象部分を導線で1点に集中接地する。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "マクロショックの防止を目的とする。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 51,
+    "category": "医療安全",
+    "keywords": ["漏れ電流", "B形装着部", "許容値", "電気安全"],
+    "question": "B形装着部の交流の許容値が100μAの漏れ電流はどれか。",
+    "questionImage": null,
+    "options": [
+      "接地漏れ電流（正常状態）",
+      "接触電流（正常状態）",
+      "合計患者漏れ電流（正常状態）",
+      "患者接続部から大地への患者漏れ電流（単一故障状態）",
+      "患者測定電流（単一故障状態）"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "接触電流（正常状態）"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 52,
+    "category": "医療安全",
+    "keywords": ["ME機器", "クラス分類", "接地", "3Pプラグ"],
+    "question": "クラス別分類について正しいのはどれか。",
+    "questionImage": null,
+    "options": [
+      "クラスⅠのME機器の追加保護手段は基礎絶縁である。",
+      "クラスⅠのME機器は使用上の設備による制限はない。",
+      "クラスⅡのME機器は強化絶縁だけでは実現しない。",
+      "クラスⅡのME機器は3Pプラグが必要である。",
+      "内部電源ME機器は外部電源に接続するときクラスⅠまたはⅡのME機器として扱う。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "内部電源ME機器は外部電源に接続するときクラスⅠまたはⅡのME機器として扱う。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 53,
+    "category": "医療安全",
+    "keywords": ["漏れ電流", "単一故障状態", "JIS T 0601-1", "許容値"],
+    "question": "JIS T 0601-1において単一故障状態での漏れ電流の許容値が最も大きいのはどれか。",
+    "questionImage": null,
+    "options": [
+      "接地漏れ電流",
+      "接触電流",
+      "患者測定電流",
+      "患者漏れ電流",
+      "合計患者漏れ電流"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "接地漏れ電流"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 54,
+    "category": "医療安全",
+    "keywords": ["漏れ電流", "合計患者漏れ電流", "許容値", "アイソレーション記号"],
+    "question": "図の図記号が付いた医療機器で，保護接地線の断線が発生した場合の合計患者漏れ電流の許容値[μA]はどれか。",
+    "questionImage": "images/2019/2019-pm-54.png",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "500",
+      "1000"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "100"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 55,
+    "category": "医療安全",
+    "keywords": ["等電位接地", "JIS T 1022", "接地設備", "医用室"],
+    "question": "JIS T 1022において等電位接地設備が必須の医用室はどれか。",
+    "questionImage": null,
+    "options": [
+      "手術室",
+      "救急処置室",
+      "診察室",
+      "血液透析室",
+      "内視鏡室"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "手術室"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 56,
+    "category": "医療安全",
+    "keywords": ["病院設備", "非常電源", "UPS", "発電機", "色識別"],
+    "question": "病院電気設備の非常電源で誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "医療ガス供給設備には一般非常電源が設けられている。",
+      "一般非常電源は商用電源停止から40秒以内に立ち上がる。",
+      "自家用発電設備の最低持続供給時間は10分である。",
+      "無停電非常電源用コンセントの外郭色は緑である。",
+      "無停電非常電源はUPSと自家用発電設備から構成される。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "自家用発電設備の最低持続供給時間は10分である。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 57,
+    "category": "医療安全",
+    "keywords": ["非接地配線方式", "マクロショック", "絶縁監視装置", "接地"],
+    "question": "非接地配線方式について誤っているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "マクロショック対策として有効である。",
+      "停電時に電源の供給を維持する。",
+      "絶縁変圧器の定格容量は7.5 kVA以下である。",
+      "絶縁監視装置の警報は対地インピーダンスが50 kΩ以下の状態で動作する。",
+      "接続するME機器に保護接地が必要である。"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "停電時に電源の供給を維持する。"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 58,
+    "category": "医療安全",
+    "keywords": ["JIS T 0601-1", "ME機器", "表示灯", "準備完了", "色"],
+    "question": "JIS T 0601-1 において ME 機器で「使用の準備が完了」を意味する表示灯の色はどれか。",
+    "questionImage": null,
+    "options": ["赤", "橙", "黄", "緑", "青"],
+    "optionImages": [null, null, null, null, null],
+    "answer": "緑"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 59,
+    "category": "情報システム",
+    "keywords": ["信頼度", "システム構成", "直列", "計算"],
+    "question": "図のように信頼度が異なる要素を並列に構成した場合、システム全体の信頼度はいくらか。",
+    "questionImage": "images/2019/2019-pm-59.png",
+    "options": ["0.32", "0.45", "0.55", "0.70", "0.95"],
+    "optionImages": [null, null, null, null, null],
+    "answer": "0.95"
+  },
+  {
+    "year": "2019",
+    "part": "午後",
+    "index": 60,
+    "category": "医療安全",
+    "keywords": ["高圧ガス", "ボンベ", "液体", "充填", "気体"],
+    "question": "内容量 3.5 L の高圧ガスボンベにおいて液体で充填されているのはどれか。",
+    "questionImage": null,
+    "options": [
+      "亜酸化窒素",
+      "一酸化窒素",
+      "治療用空気",
+      "ヘリウム",
+      "窒素"
+    ],
+    "optionImages": [null, null, null, null, null],
+    "answer": "亜酸化窒素"
+  }
+]
