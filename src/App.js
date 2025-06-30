@@ -130,6 +130,9 @@ function App() {
   setAnswers({});
   setShowResults(false);
   setStarted(true);
+
+  // ✅ 追加：最上部にスクロール
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 　};
 
 
